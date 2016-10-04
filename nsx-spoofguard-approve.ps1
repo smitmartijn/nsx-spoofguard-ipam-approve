@@ -24,7 +24,6 @@
 # PowerCLI > .\Install-NSX.ps1 -NSX_Manager_IP nsx-manager -NSX_Manager_User admin -NSX_Manager_Password passwd -VC_User administrator@vsphere.local -VC_Password passwd
 #                              -SpoofGuardPolicy approve-all -IPAM_IP infoblox-manager -IPAM_User admin -IPAM_Password passwd -IPAM_Module Infoblox
 #
-#
 # ChangeLog:
 #
 # 03-10-2016 - Martijn Smit <martijn@lostdomain.org>
