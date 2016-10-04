@@ -25,6 +25,10 @@ PowerCLI > .\Install-NSX.ps1 -NSX_Manager_IP nsx-manager -NSX_Manager_User admin
                              -SpoofGuardPolicy approve-all -IPAM_IP infoblox-manager -IPAM_User admin -IPAM_Password passwd -IPAM_Module Infoblox
 ```
 
+# Requirements
+
+This script runs with PowerShell, PowerCLI (tested with v6+) and PowerNSX (PS Module, which is included in the repository).
+
 # ChangeLog:
 
 03-10-2016 - Martijn Smit <martijn@lostdomain.org>
