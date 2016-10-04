@@ -1,7 +1,3 @@
-# nsx-spoofguard-ipam-approve
-NSX Spoofguard IPAM Approvals
-
-
 # nsx-spoofguard-approve.ps1
 
 The Spoofguard function in NSX can block VMs from using unauthorized IP addresses on the network. With the proper policy, network admins would need to approve the use of the IP address before a VM is allowed to use it.
